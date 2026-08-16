@@ -1,4 +1,4 @@
-# References
+# 📚 References
 
 The following research papers were reviewed and used as references for this project:
 
